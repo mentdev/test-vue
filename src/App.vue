@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="blue">
-      <v-toolbar-title>Vue Vuetify</v-toolbar-title>
+      <v-toolbar-title>Test Vue Vuetify</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn v-if="username===''" color="primary" @click="login">Login</v-btn>
 
